@@ -1,0 +1,14 @@
+
+p {
+  text-align: center;
+  color: #d1d5db;
+  font-size: 18px;
+}
+
+:host {
+  display: block;
+  min-height: 100vh;
+  padding: 1px 24px;
+  color: white;
+  background: linear-gradient(135deg, #111827, #1f2937);
+}

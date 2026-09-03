@@ -1,0 +1,20 @@
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  padding: 20px;
+  background-color: #111827;
+  border-bottom: 1px solid #374151;
+}
+
+nav a {
+  color: #d1d5db;
+  text-decoration: none;
+  font-family: Georgia, serif;
+  font-size: 18px;
+  transition: color 0.2s ease;
+}
+
+nav a:hover {
+  color: #60a5fa;
+}
